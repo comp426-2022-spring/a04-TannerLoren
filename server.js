@@ -5,7 +5,7 @@ const fs = require('fs')
 const morgan = require('morgan')
 const db = require("./database.js")
 
-args["port"]
+args["por"]
 args["argument"]
 args["log"]
 args["debug"]
