@@ -12,4 +12,4 @@ if (query.get() == undefined) {
     db.exec(sqlInit)
 }
 
-module.exports = db; 
+module.exports = db ; 
